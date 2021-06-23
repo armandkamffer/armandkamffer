@@ -1,13 +1,11 @@
-<img src="images/AK-Icon.png" alt="Armand Kamffer Icon" style="width: 500px;background-image: radial-gradient(circle, rgba(163,3,73,1) 0%, rgba(159,198,244,1) 100%); border-radius: 30%;">
-
-# Hi, I'm Armand Kamffer
-
-I'm an iOS Mobile developer interested in technologies such as SwiftUI, Combine, and REST Development.
-
-I have worked on multiple iOS apps, mostly built in Swift and sometimes Objective-C. Going forward I see myself continuing to work on iOS app development, and maybe even some more REST backend development.
+<img src="images/armand_kamffer.png" alt="Armand Kamffer Icon">
 
 ___
-## How to reach me
+# Hi, I'm Armand Kamffer
+
+I'm an Intermediate Software Engineer mainly focused on iOS development and I am in technologies such as SwiftUI, Combine, and REST Development.
+
+I have worked on multiple iOS apps, mostly built in Swift and sometimes Objective-C. Going forward I see myself continuing to work on iOS app development, and maybe even some more REST backend development.
 
 
 ___
