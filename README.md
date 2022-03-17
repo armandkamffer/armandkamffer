@@ -3,10 +3,11 @@
 ___
 # Hi, I'm Armand Kamffer
 
-I'm an Intermediate Software Engineer mainly focused on iOS development and I am in technologies such as SwiftUI, Combine, and REST Development.
+I'm a Senior Software Engineer mainly focused on iOS development and technologies such as SwiftUI, Combine, and REST Development.
 
 I have worked on multiple iOS apps, mostly built in Swift and sometimes Objective-C. Going forward I see myself continuing to work on iOS app development, and maybe even some more REST backend development.
 
+I am currently experimenting with Flutter.
 
 ___
 
