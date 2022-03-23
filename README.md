@@ -11,6 +11,14 @@ I am currently experimenting with Flutter.
 
 ___
 
+One of the side projects that I am quite proud of is the Mamba project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-flutter&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-backend-vapor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-web&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-ios&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+___
+
 ## Current and Planned Learning
 
 ### Books
@@ -22,7 +30,7 @@ ___
 
 ## Some Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandkamffer&layout=compact&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandkamffer&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandkamffer&count_private=true&show_icons=true&theme=react)
 
