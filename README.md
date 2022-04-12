@@ -13,10 +13,10 @@ ___
 
 One of the side projects that I am quite proud of is the Mamba project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-flutter&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-backend-vapor&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-web&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-ios&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-flutter&theme=react)](https://github.com/Operation-Winter/mamba-flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-backend-vapor&theme=react)](https://github.com/Operation-Winter/mamba-backend-vapor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-web&theme=react)](https://github.com/Operation-Winter/mamba-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Operation-Winter&repo=mamba-ios&theme=react)](https://github.com/Operation-Winter/mamba-ios)
 ___
 
 ## Current and Planned Learning
